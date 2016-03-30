@@ -1,0 +1,6 @@
+{	
+"ifttt_key": "IFTTT_KEY",
+"low_alarm_temp": 50,
+"high_alarm_temp": 80,
+"min_t_between_warnings": 60
+}
